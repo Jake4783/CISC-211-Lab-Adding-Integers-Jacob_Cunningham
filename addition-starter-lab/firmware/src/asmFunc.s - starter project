@@ -54,7 +54,7 @@ asmFunc:
     
     /*** STUDENTS: Place your code BELOW this line!!! **************/
     /*Using add operand to add registers r1 and r2 together and place in r0 */
-    ADD r0, r0, r1
+    add r0, r1, r2
 
     /*** STUDENTS: Place your code ABOVE this line!!! **************/
     
